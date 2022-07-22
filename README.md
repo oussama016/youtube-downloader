@@ -1,7 +1,8 @@
 # youtube-downloader
 
 download video using google colab Notebook
-Fun Tool to download youtube video by simple code using pytube library 
+
+Fun Tool to download youtube video by using simple code and  pytube library 
 
 1- install pytube 
 
